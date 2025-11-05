@@ -12,6 +12,7 @@ char A[20], B[15];
 scanf(" %d",&tahunLahir); 
 scanf(" %[^\n]%*c",&A);
 scanf(" %[^\n]%*c",&B); 
-Biodata(tahunLahir,A,Asal); 
+Biodata(tahunLahir,A,B); 
 return 0;
+
 }
