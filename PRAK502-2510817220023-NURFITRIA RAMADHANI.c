@@ -1,5 +1,6 @@
 #include <stdio.h> 
 #include <math.h>
+#include <stdlib.h>
 int hitung(int nilai1, int nilai2){
     int hasil=(nilai1-nilai2);
     return abs(hasil);
